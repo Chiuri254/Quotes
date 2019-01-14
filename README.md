@@ -2,9 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
-Author.
-
-Joseph Chiuri
+Author. Joseph Chiuri
 
 ## Description.
 
@@ -23,9 +21,9 @@ git clone https://github.com/Chiuri254/Quotes.git
 cd Quotes-App
 atom .
 code . (this is if Visual Studio Code is your preferred text editor)
-Link to Live Website (https://chiuri254.github.io/Quotes/)
+```
 
-License
+##License
 MIT License
 
 Copyright (c) 2018 Joseph Chiuri

@@ -14,9 +14,8 @@ Link to deployed site.
 https://chiuri254.github.io/Quotes/
 
  ## Setup/Installation Requirements
+ To start using this project use the following commands:
  ```python
-To start using this project use the following commands:
-
 git clone https://github.com/Chiuri254/Quotes.git
 cd Quotes-App
 atom .

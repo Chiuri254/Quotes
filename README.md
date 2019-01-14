@@ -6,7 +6,7 @@ Author.
 
 Joseph Chiuri
 
-Description.
+## Description.
 
 In the application,one requires to type in a quote and the poster and just click,submit.The user then
 likes or dislike a quote by clicking either an upvote or a downvote.
@@ -15,15 +15,15 @@ Link to deployed site.
 
 https://chiuri254.github.io/Quotes/
 
- Setup/Installation Requirements
+ ## Setup/Installation Requirements
+ ```python
 To start using this project use the following commands:
 
 git clone https://github.com/Chiuri254/Quotes.git
 cd Quotes-App
 atom .
 code . (this is if Visual Studio Code is your preferred text editor)
-Link to Live Website
-https://chiuri254.github.io/Quotes/
+Link to Live Website (https://chiuri254.github.io/Quotes/)
 
 License
 MIT License
